@@ -7,18 +7,18 @@ const coaches = [
     name: "Coach Zack",
     role: "Technical Director",
     image: "https://storage.googleapis.com/msgsndr/AKZP7FbfcOPsLo93Ayuw/media/673bd75015ee065bf0b64cad.png",
+    credentials: "LicensUnited Soccer License",
+    experience: "5+ years"
+  },
+  {
+    name: "Coach Agnone",
+    role: "Head Coach - Elite Academy",
+    image: "https://storage.googleapis.com/msgsndr/AKZP7FbfcOPsLo93Ayuw/media/673b8a9115ee066c37b605ad.png",
     credentials: "United Soccer License",
     experience: "4+ years"
   },
   {
     name: "Coach Alec",
-    role: "Head Coach - Elite Academy",
-    image: "https://storage.googleapis.com/msgsndr/AKZP7FbfcOPsLo93Ayuw/media/673b8a9115ee066c37b605ad.png",
-    credentials: "United Soccer License",
-    experience: "5+ years"
-  },
-  {
-    name: "Coach Brick",
     role: "Head Coach - Youth Development",
     image: "https://storage.googleapis.com/msgsndr/AKZP7FbfcOPsLo93Ayuw/media/673bd75015ee065bf0b64cad.png",
     credentials: "United Soccer License",

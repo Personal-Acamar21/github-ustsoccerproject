@@ -62,7 +62,7 @@ export default function Home() {
             animate={{ opacity: 1, y: 0 }}
           >
             Develop Your Soccer Skills
-            <span className="block text-[#00FF00]">Shape Your Future</span>
+            <span className="block text-[#8ED204]">Shape Your Future</span>
           </motion.h1>
           <motion.p 
             className="text-xl text-white mb-8 max-w-2xl"
